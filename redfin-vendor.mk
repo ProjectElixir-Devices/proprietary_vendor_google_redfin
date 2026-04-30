@@ -87,7 +87,6 @@ PRODUCT_PACKAGES += \
     DCMO \
     DMService \
     DeviceIntelligenceNetworkPrebuilt \
-    DevicePersonalizationPrebuiltPixel2020 \
     DiagMon \
     EuiccGoogle \
     HardwareInfo \
